@@ -1,3 +1,8 @@
-# Project Synopsis
+# The Physiological and Behavioral Effects of Copper Exposure on Hemigrapsus oregonensis
 
-Write an overview of your project here. Should include quick background about the applied relevance of your work, hypotheses, objectives, experimental design, and a summary of your findings. *No more than 500 words.*
+ Overview: Heavy metal contamination in marine environments, particularly from copper-based antifouling paints and agricultural runoff, is a growing ecological concern. The yellow shore crab (Hemigrapsus oregonensis), a common intertidal species in the Pacific Northwest, serves as a useful model for assessing sublethal stress from copper pollution due to its habitat overlap with contaminated areas like marinas.  
+  Hypotheses: We hypothesized that copper exposure would increase mortality, reduce metabolic activity, and impair defensive behavior in H. oregonensis.  
+  Objectives: This study aimed to evaluate the physiological and behavioral effects of sublethal copper exposure through respirometry using resazurin to measure metabolic rate, and righting time to measure behavioral impairment.  
+  Experimental Design: Crabs were exposed to control (0 mg/L), low (25 mg/L), and high (167 mg/L) copper concentrations for up to two weeks. Mortality was tracked, metabolic activity was measured by fluorescence changes in resazurin dye, and righting time was recorded as a behavioral response.  
+  Findings:  Mortality increased with copper concentration, reaching 100% in the high copper group by week two. Metabolic activity was significantly reduced in copper-exposed groups during week one but normalized in surviving low copper crabs by week two. Righting times were delayed and more variable in high copper crabs, indicating impaired behavior. 
+  Conclusion: Copper exposure imposes physiological and behavioral stress on H. oregonensis, even at sublethal concentrations. These results highlight the vulnerability of intertidal species to metal pollution and support the need for stricter copper regulation in coastal environments like Puget Sound.
